@@ -35,7 +35,7 @@ StableDiffusion：
 ## Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
+- ebook gerado durante as instruções das aulas em `output`
 
 ## Instruções de execução
 
