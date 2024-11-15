@@ -47,4 +47,4 @@ Clarence Silva Aguiar (Depois de aprender com [Felipe Aguiar](https://github.com
 
 [Github](https://github.com/clarenceaguiar)
 
-[LinkedIn](https://linkedin.com/in/clarence-silva-aguiar-5b896874)
+[LinkedIn](https://linkedin.com/in/clarence-aguiar)
